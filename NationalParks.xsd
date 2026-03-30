@@ -8,13 +8,7 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Name" type="xs:string" />
-              <xs:element name="Phone" maxOccurs="unbounded">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:element name="Number" type="xs:string" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
+              <xs:element name="Phone" type="xs:string" maxOccurs="unbounded" />
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
