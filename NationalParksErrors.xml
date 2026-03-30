@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:noNamespaceSchemaLocation="NationalParks.xsd">
-
+              xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shristipaudel22/cse445/refs/heads/main/NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -15,7 +14,6 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -28,7 +26,6 @@
       <Zip>82190</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Yosemite</Name>
     <Address NearestAirport="Fresno">
@@ -39,7 +36,6 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.7">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
@@ -50,7 +46,6 @@
       <State>UT</State>
       <Zip>84767</Zip>
   </NationalPark>
-
   <NationalPark>
     <Name>Rocky Mountain</Name>
     <Name>Rocky Mountain West</Name>
@@ -64,7 +59,6 @@
       <Zip>80517</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.8">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
@@ -76,7 +70,6 @@
       <Zip>59936</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
@@ -88,7 +81,6 @@
       <Zip>04609</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.6">
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
@@ -101,7 +93,6 @@
       <Zip>37738</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.7">
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
@@ -113,7 +104,6 @@
       <Zip>92277</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark>
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
@@ -125,7 +115,6 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
-
   <NationalPark Rating="4.9">
     <Name>Denali</Name>
     <Phone>907-683-9532</Phone>
@@ -138,5 +127,4 @@
       <Zip>99755</Zip>
     </Address>
   </NationalPark>
-
 </NationalPark>
