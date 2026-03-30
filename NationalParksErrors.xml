@@ -14,6 +14,7 @@
       <Number>866-499-2574</Number>
     </Phone>
     <Address NearestAirport="Flagstaff">
+      <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
       <State>AZ</State>
@@ -30,7 +31,8 @@
       <Number>307-344-2117</Number>
     </Phone>
     <Address>
-      <Street>2 Officers Row</Street>
+      <Number>2</Number>
+      <Street>Officers Row</Street>
       <City>Yellowstone National Park</City>
       <State>WY</State>
       <Zip>82190</Zip>
@@ -40,7 +42,8 @@
   <NationalPark>
     <Name>Yosemite</Name>
     <Address NearestAirport="Fresno">
-      <Street>9035 Village Drive</Street>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
       <City>Yosemite Valley</City>
       <State>CA</State>
       <Zip>95389</Zip>
@@ -53,7 +56,8 @@
       <Number>435-772-3256</Number>
     </Phone>
     <Address NearestAirport="St George">
-      <Street>1 Zion Park Blvd</Street>
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
       <City>Springdale</City>
       <State>UT</State>
       <Zip>84767</Zip>
@@ -69,7 +73,8 @@
       <Number>970-586-1242</Number>
     </Phone>
     <Address NearestAirport="Denver">
-      <Street>1000 US Hwy 36</Street>
+      <Number>1000</Number>
+      <Street>US Hwy 36</Street>
       <City>Estes Park</City>
       <State>CO</State>
       <Zip>80517</Zip>
@@ -82,7 +87,8 @@
       <Number>406-888-7800</Number>
     </Phone>
     <Address NearestAirport="Kalispell">
-      <Street>64 Grinnell Drive</Street>
+      <Number>64</Number>
+      <Street>Grinnell Drive</Street>
       <City>West Glacier</City>
       <State>MT</State>
       <Zip>59936</Zip>
@@ -95,7 +101,8 @@
       <Number>207-288-3338</Number>
     </Phone>
     <Address NearestAirport="Bar Harbor">
-      <Street>25 Visitor Center Road</Street>
+      <Number>25</Number>
+      <Street>Visitor Center Road</Street>
       <City>Bar Harbor</City>
       <State>ME</State>
       <Zip>04609</Zip>
@@ -111,7 +118,8 @@
       <Number>865-436-1291</Number>
     </Phone>
     <Address NearestAirport="Knoxville">
-      <Street>107 Park Headquarters Road</Street>
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
       <City>Gatlinburg</City>
       <State>TN</State>
       <Zip>37738</Zip>
@@ -124,7 +132,8 @@
       <Number>760-367-5500</Number>
     </Phone>
     <Address NearestAirport="Palm Springs">
-      <Street>74485 National Park Drive</Street>
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
       <City>Twentynine Palms</City>
       <State>CA</State>
       <Zip>92277</Zip>
@@ -137,7 +146,8 @@
       <Number>435-719-2299</Number>
     </Phone>
     <Address NearestAirport="Moab">
-      <Street>2 South Highway 191</Street>
+      <Number>2</Number>
+      <Street>South Highway 191</Street>
       <City>Moab</City>
       <State>UT</State>
       <Zip>84532</Zip>
@@ -153,7 +163,8 @@
       <Number>907-683-9527</Number>
     </Phone>
     <Address NearestAirport="Fairbanks">
-      <Street>Mile 237 Parks Highway</Street>
+      <Number>237</Number>
+      <Street>Parks Highway</Street>
       <City>Denali Park</City>
       <State>AK</State>
       <Zip>99755</Zip>
