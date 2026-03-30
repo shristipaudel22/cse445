@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.nationalparks.com"
+           xmlns="http://www.nationalparks.com"
+           elementFormDefault="qualified">
   <xs:element name="NationalParks">
     <xs:complexType>
       <xs:sequence>
