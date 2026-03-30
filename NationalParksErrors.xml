@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>
+      <Number>928-638-7496</Number>
+    </Phone>
+    <Phone>
+      <Number>888-297-2757</Number>
+    </Phone>
+    <Phone>
+      <Number>866-499-2574</Number>
+    </Phone>
+    <Address NearestAirport="Flagstaff">
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Phone>
+      <Number>307-344-7381</Number>
+    </Phone>
+    <Phone>
+      <Number>307-344-2117</Number>
+    </Phone>
+    <Address>
+      <Street>2 Officers Row</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Yosemite</Name>
+    <Address NearestAirport="Fresno">
+      <Street>9035 Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Zion</Name>
+    <Phone>
+      <Number>435-772-3256</Number>
+    </Phone>
+    <Address NearestAirport="St George">
+      <Street>1 Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Rocky Mountain</Name>
+    <Name>Rocky Mountain West</Name>
+    <Phone>
+      <Number>970-586-1206</Number>
+    </Phone>
+    <Phone>
+      <Number>970-586-1242</Number>
+    </Phone>
+    <Address NearestAirport="Denver">
+      <Street>1000 US Hwy 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Glacier</Name>
+    <Phone>
+      <Number>406-888-7800</Number>
+    </Phone>
+    <Address NearestAirport="Kalispell">
+      <Street>64 Grinnell Drive</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Acadia</Name>
+    <Phone>
+      <Number>207-288-3338</Number>
+    </Phone>
+    <Address NearestAirport="Bar Harbor">
+      <Street>25 Visitor Center Road</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>
+      <Number>865-436-1200</Number>
+    </Phone>
+    <Phone>
+      <Number>865-436-1291</Number>
+    </Phone>
+    <Address NearestAirport="Knoxville">
+      <Street>107 Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Joshua Tree</Name>
+    <Phone>
+      <Number>760-367-5500</Number>
+    </Phone>
+    <Address NearestAirport="Palm Springs">
+      <Street>74485 National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Arches</Name>
+    <Phone>
+      <Number>435-719-2299</Number>
+    </Phone>
+    <Address NearestAirport="Moab">
+      <Street>2 South Highway 191</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Denali</Name>
+    <Phone>
+      <Number>907-683-9532</Number>
+    </Phone>
+    <Phone>
+      <Number>907-683-9527</Number>
+    </Phone>
+    <Address NearestAirport="Fairbanks">
+      <Street>Mile 237 Parks Highway</Street>
+      <City>Denali Park</City>
+      <State>AK</State>
+      <Zip>99755</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalPark>
